@@ -2,7 +2,7 @@
 
 ## Optimizing Deployment of Irregular Sparse Deep Learning Workloads through ILP-Based Scheduling for Low-Latency Inference
 
-**Changxin Li Sanmukh Kuppannagari**  
+**Changxin Li, Sanmukh Kuppannagari**  
 Case Western Reserve University  
 
 
